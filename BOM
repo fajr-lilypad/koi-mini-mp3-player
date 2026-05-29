@@ -1,15 +1,4 @@
-Bill of Materials for mp3 player:
-
-| Item | Purpose | Price | Source |
-|---|---|---|---|
+| Item             | Purpose         | Price | Source     |
+| ---------------- | --------------- | ----- | ---------- |
 | Arduino Pro Mini | Microcontroller | $1.66 | AliExpress |
-| DFPlayer Mini | Audio Module | $0.73 | AliExpress |
-| 1.3 in OLED | Display Screen | $0.99 | AliExpress |
-| TRS Female Headphone Jack | Output | $1.15 | DigiKey |
-| 3.7 V Battery | Power | $4.18 | AliExpress |
-| Micro SD Card | Store songs | $1.48 | AliExpress |
-| Micro Push Buttons | Inputs | $0.33 | Same Sky |
-| Custom PCB | PCB | TBD | JLCPCB |
-| Soldering Iron | Assembly | $0 | Owned |
-| 3D Printer | Case Manufacturing | $0 | Owned |
-| Wired Headphones | Audio Output | $0 | Owned |
+| DFPlayer Mini    | Audio Module    | $0.73 | AliExpress |
