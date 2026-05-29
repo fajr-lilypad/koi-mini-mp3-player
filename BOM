@@ -1,17 +1,15 @@
 Bill of Materials for mp3 player:
 
-
-| Item  |  Purpose | Price | Source |
-| --------------------- | -------------------- | ------------- | ------------- |
-| Arduino Pro Mini | Microcontroller | $1.66 | Aliexspress |
-| Df Player Mini | Audio Module | $0.73 | Aliexpress |
-| 1.3 in Oled | Display Screen | $0.99 | Aliexpress |
-| TRS female headphone jack | output | $1.15 | DigiKey |
-| 3.7 V Battery | Power | $4.18 | Aliexspress |
-| Mirco SD Card | store songs | $1.48 | Aliexpress |
-| micro push buttons | inputs | $0.33 | same sky |
-| custom pcb | pcb | tbd | jlcpcb |
-| soldering iron | assembly | $0 | owned |
-| 3d printer | case manufacturing | $0 | owned |
-| wired headphones | audio output | $0 | owned |
-| --------------------- | -------------------- | ------------- | ------------- |
+| Item | Purpose | Price | Source |
+|---|---|---|---|
+| Arduino Pro Mini | Microcontroller | $1.66 | AliExpress |
+| DFPlayer Mini | Audio Module | $0.73 | AliExpress |
+| 1.3 in OLED | Display Screen | $0.99 | AliExpress |
+| TRS Female Headphone Jack | Output | $1.15 | DigiKey |
+| 3.7 V Battery | Power | $4.18 | AliExpress |
+| Micro SD Card | Store songs | $1.48 | AliExpress |
+| Micro Push Buttons | Inputs | $0.33 | Same Sky |
+| Custom PCB | PCB | TBD | JLCPCB |
+| Soldering Iron | Assembly | $0 | Owned |
+| 3D Printer | Case Manufacturing | $0 | Owned |
+| Wired Headphones | Audio Output | $0 | Owned |
