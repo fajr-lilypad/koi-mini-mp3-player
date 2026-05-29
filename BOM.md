@@ -1,7 +1,7 @@
-##BOM
+## BOM
 
-| Item | Purpose | Price | Source |
-|---|---|---|---|
+| Item | Purpose | Price | Source | Link |
+|---|---|---|---|---|
 | Arduino Pro Mini | Microcontroller | $1.66 | AliExpress |
 | DFPlayer Mini | Audio Module | $0.73 | AliExpress |
 | 1.3 in OLED | Display Screen | $0.99 | AliExpress |
@@ -13,3 +13,4 @@
 | Soldering Iron | Assembly | $0 | Owned |
 | 3D Printer | Case Manufacturing | $0 | Owned |
 | Wired Headphones | Audio Output | $0 | Owned |
+|  |  |  |  | **Subtotal: ~10.35**  |
