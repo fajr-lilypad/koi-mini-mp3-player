@@ -11,6 +11,7 @@
 | Micro Push Buttons | Inputs | $0.33 | Same Sky |
 | Breadboard | testing | $0.55 | AliExpress | https://shorturl.at/7gDRe |
 | Custom PCB | PCB | TBD | JLCPCB |
+| Brass PCB standoffs | Supports structure | $0.99 | AliExspress | https://shorturl.at/dPENK |
 | Soldering Iron | Assembly | $0 | Owned |
 | 3D Printer | Case Manufacturing | $0 | Owned |
 | Wired Headphones | Audio Output | $0 | Owned |
