@@ -2,7 +2,7 @@
 
 | Item | Purpose | Price | Source | Link |
 |---|---|---|---|---|
-| Arduino Pro Mini | Microcontroller | $1.66 | AliExpress | https://shorturl.at/bYvWN |
+| Arduino Pro Mini | Microcontroller | $1.66 | AliExpress | https://shorturl.at/bYvWN , https://nseimports.co.uk/products/atmega328p-au-arduino-pro-mini-microcontroller?variant=56591284371842&_gsid=5cQXN34TcRLg&utm_source=chatgpt.com&utm_medium=feed&oppcref=d8ab7f66-ab70-42b4-99c8-75c5c42ae4f2 |
 | DFPlayer Mini | Audio Module | $0.73 | AliExpress | 
 | 1.3 in OLED | Display Screen | $0.99 | AliExpress |
 | TRS Female Headphone Jack | Audio output | $1.15 | DigiKey | https://shorturl.at/xDjAV |
