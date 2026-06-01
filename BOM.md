@@ -10,6 +10,8 @@
 | 2 pin JST Battery Connector | Battery Connector | $3.90 | Aliexpress| https://shorturl.at/0xLe1 |
 | Micro SD Card | Store songs | $1.48 | AliExpress |
 | Micro Push Buttons | Inputs | $0.33 | Same Sky |
+| Custom Tactile Buttons | Comfort | $0 | 3D Printed |
+| Custom Koi Case | Aesthetics | $0 | 3D Printed |
 | Breadboard | testing | $0.55 | AliExpress | https://shorturl.at/7gDRe |
 | Custom PCB | PCB | TBD | JLCPCB |
 | Brass PCB standoffs | Supports structure | $0.99 | AliExspress | https://shorturl.at/dPENK |
