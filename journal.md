@@ -68,6 +68,8 @@ I continued to CAD and created a new version of the case that I think I'm a lot 
 
 ## June 3rd, 2026, 6 PM
 
+So, CAD is officially finished up! Now, I'm finalizing everything in my repo and also plan on getting started on my zine! This has been really awesome, and I've learned a lot!
+
 <img width="1549" height="949" alt="image" src="https://github.com/user-attachments/assets/1dfb93d7-1eb7-4858-9740-ed620aa50fa9" />
 
 
