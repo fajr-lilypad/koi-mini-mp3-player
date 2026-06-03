@@ -53,6 +53,27 @@ also, basic assembly of all electronic components has been completed in cad!! yi
 
 <img width="1948" height="1315" alt="image" src="https://github.com/user-attachments/assets/7fe3380f-4164-4160-b7bc-17f9bd971ece" />
 
+## June 2nd, 2026, 4 PM
+
+Finally, got to cadding the case!!
+I'm gonna be honest, it was harder than I thought it would be. First, I didnt even make it the right size, and then I had to deal with the fact that it looked more like a rocket ship than a fish. After tons of editing, I've gotten to a place where I am happy with (as a 1st draft). I plan to pretty it up, by adding a hinge and embossing scales and other details. Lets see how this goes!
+
+<img width="1950" height="1437" alt="image" src="https://github.com/user-attachments/assets/c3cb6264-3f27-4f45-8fd7-05ae7350152a" />
+
+## June 2nd, 2026, 6 PM
+
+I continued to CAD and created a new version of the case that I think I'm a lot happier with! I also switched some stuff around aesthetics wise. I think I can get to submitting this very soon!
+
+<img width="1120" height="923" alt="image" src="https://github.com/user-attachments/assets/96dad7f8-9ca7-4a5a-83b8-cad16ea375c0" />
+
+## June 3rd, 2026, 6 PM
+
+<img width="1549" height="949" alt="image" src="https://github.com/user-attachments/assets/1dfb93d7-1eb7-4858-9740-ed620aa50fa9" />
+
+
+
+
+
 
 
 
