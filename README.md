@@ -13,13 +13,14 @@ Some special things I did include making a more complex pcb than I have ever wor
 
 <table>
   <tr>
-    <td><img src="Screenshot 2026-06-04 122117" src="https://github.com/user-attachments/assets/08f53b1f-319d-4e50-8958-fba41f2a1926" />
-" width="300"></td>
-    <td><img src=""Screenshot 2026-06-04 122146" src="https://github.com/user-attachments/assets/8fb7f56f-6eab-44c9-bc9d-51c856697ca6" />
-" width="300"></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/08f53b1f-319d-4e50-8958-fba41f2a1926" width="300">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/8fb7f56f-6eab-44c9-bc9d-51c856697ca6" width="300">
+    </td>
   </tr>
 </table>
-
 
 CAD Notes:
 - arduino in CAD does not match up with footrpint or irl, trust the footprint. it was just the best 3d model I could find.
