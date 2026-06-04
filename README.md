@@ -34,15 +34,15 @@ CAD Notes:
 <table>
   <tr>
     <td rowspan="2">
-      <img src="https://github.com/user-attachments/assets/0eb056d6-b8f1-48b4-86e8-395ea7206163" />" width="300">
+      <img src="https://github.com/user-attachments/assets/0eb056d6-b8f1-48b4-86e8-395ea7206163" />" ">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/92546d10-c9a0-4284-980f-e15bc191c5d1" />" width="300">
+      <img src="https://github.com/user-attachments/assets/92546d10-c9a0-4284-980f-e15bc191c5d1" />" ">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/6a6e23f6-e1cb-4744-8cdc-e45ce6a8ba88" />" width="300">
+      <img src="https://github.com/user-attachments/assets/6a6e23f6-e1cb-4744-8cdc-e45ce6a8ba88" />" >
     </td>
   </tr>
 </table>
