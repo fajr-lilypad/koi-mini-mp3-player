@@ -65,6 +65,9 @@ PCB Notes:
 
 # Zine !!
 
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/300387ff-0e9b-4310-8cef-33475b27c98a" />
+
+
 ## Notes and Acknowledgments
 - Thank you to **Hackclub** and the **Fallout team** for making this project possible! It's because of you that I was inspired and able to make this project!
 - Thank you to the user Digiicam for helpful inspo for wiring and components!
