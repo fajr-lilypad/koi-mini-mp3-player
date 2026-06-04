@@ -71,6 +71,10 @@ PCB Notes:
 
 Assembly for this Fish MP3 Player isn't too complicated. To start off, once components have arrived, be sure that your code is ready. I customized code for the display from Pcbcupid soundpod and used a butmap converter to display the images! When assembling components, I plan on starting out with a breadboard to test firmware before soldering, and be sure to secure the bottom blank pcb with standoffs. In the meantime, get the 3d printer started on the case top, bottom, and fins! The snap fit joints should make the case easy to work with, so it isnt hard to access the pcb.
 
+## BOM
+
+
+
 
 ## Notes and Acknowledgments
 - Thank you to **Hackclub** and the **Fallout team** for making this project possible! It's because of you that I was inspired and able to make this project!
