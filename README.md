@@ -65,7 +65,8 @@ PCB Notes:
 
 # Zine !!
 
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/300387ff-0e9b-4310-8cef-33475b27c98a" />
+<img width="683" height="969" alt="image" src="https://github.com/user-attachments/assets/1883262f-5ad7-4ff5-8a0c-663173c134b6" />
+
 
 
 ## Notes and Acknowledgments
