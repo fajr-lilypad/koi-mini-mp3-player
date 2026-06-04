@@ -26,10 +26,26 @@ Some special things I did include making a more complex pcb than I have ever wor
 </table>
 
 CAD Notes:
-- arduino in CAD does not match up with footrpint or irl, trust the footprint. it was just the best 3d model I could find.
+- Arduino model in CAD does not match up with footrpint or irl, trust the footprint. it was just the best 3d model I could find.
 - This CAD took surprisingly long! It was difficult for me to create a case that fufilled all my criteria, including space, aesthetics, and easy access to the pcb for simple troubleshooting. I ended up going with this design, but not after making several rough drafts of potential cases. I'm happy with this one, as it includes snap fit joints, a hole for the headphone jack, and is overall super cute :)
 
 # PCB ScreenShots
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ef0c0d91-d98b-42b7-84a3-e3c9477c09b0" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/f06a7f71-635b-4db4-a0f1-33f7f5b3a7c0" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e05d2b29-85c8-4f2c-948f-7d8f998eee66" width="300" />
+    </td>
+  </tr>
+</table>
+
+
 
 
 
