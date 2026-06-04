@@ -9,7 +9,7 @@ Some special things I did include making a more complex pcb than I have ever wor
 
 # CAD ScreenShots
 
-<img width="1549" height="949" alt="Screenshot 2026-06-03 174017" src="https://github.com/user-attachments/assets/c3ee901b-1757-4777-92d5-77be0b7a75b7" />
+<img width="1000" height="475" alt="Screenshot 2026-06-03 174017" src="https://github.com/user-attachments/assets/c3ee901b-1757-4777-92d5-77be0b7a75b7" />
 
 
 notes:
