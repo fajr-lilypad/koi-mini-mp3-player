@@ -47,6 +47,8 @@ CAD Notes:
   </tr>
 </table>
 
+PCB Notes:
+- The PCB took me a **while**. It took 6 versions to come up with the final draft. The biggest difficulty was deciding a layout that would be easy to work with and troubleshoot, along with research into which components I should use. I had to learn how to do a lot of new things in KiCad, including making my own symbols! 
 
 
 
