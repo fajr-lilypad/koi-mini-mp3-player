@@ -18,4 +18,4 @@
 | Soldering Iron | Assembly | $0 | Owned |
 | 3D Printer | Case Manufacturing | $0 | Owned |
 | Wired Headphones | Audio Output | $0 | Owned |
-|  |  |  |  | **Subtotal: ~10.35**  |
+|  |  |  |  | **Subtotal: $20.91 USD**  |
