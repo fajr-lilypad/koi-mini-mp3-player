@@ -1,7 +1,8 @@
 # Koi Mini Mp3 Player!
 A friendly fish shaped Mp3 player, that sings a tune to cheer you up :)
 
-<img width="1029" height="735" alt="Screenshot 2026-06-01 225005" src="https://github.com/user-attachments/assets/e184c3e9-bb72-4f64-a4c0-4559af6d633b" />
+
+
 
 
 I came up with this idea when I came across creaters making projects that incorporated audio, and since I don't have as much experience with electrical projects, I thought this would be a fun and educational endeavor. When thinking over what cute designs and shapes I could make this, I became inspired by the friendly koi currency mascot used by hackclub's **fallout** program! And thus, here we are. This will be a helpful and cute tool for listening to tunes on the go, especially when I dont have access to spotify at school hahahaha (i'm **not** crying) (｡T ω T｡)
