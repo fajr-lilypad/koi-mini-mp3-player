@@ -1,9 +1,16 @@
 # Koi Mini Mp3 Player!
 A friendly fish shaped Mp3 player, that sings a tune to cheer you up :)
 
+
+
 I came up with this idea when I came across creaters making projects that incorporated audio, and since I don't have as much experience with electrical projects, I thought this would be a fun and educational endeavor. When thinking over what cute designs and shapes I could make this, I became inspired by the friendly koi currency mascot used by hackclub's **fallout** program! And thus, here we are. This will be a helpful and cute tool for listening to tunes on the go, especially when I dont have access to spotify at school hahahaha (i'm **not** crying) (｡T ω T｡)
 
-Some special things I did include making a more complex pcb than I have ever worked with before, along with not following a guided electronics project, so I kinda had to be more independent with troubleshooting and just making decsiions about my own project. 
+Some special things I did include making a more complex pcb than I have ever worked with before, along with not following a guided electronics project, so I kinda had to be more independent with troubleshooting and just making decsiions about my own project. In order to use this device, songs stored on a micro sd card can be navigated through with a simple screen display, along with right, left, and select buttons!
+
+# CAD ScreenShots
+
+<img width="1549" height="949" alt="Screenshot 2026-06-03 174017" src="https://github.com/user-attachments/assets/c3ee901b-1757-4777-92d5-77be0b7a75b7" />
+
 
 notes:
 - arduino in CAD does not match up with footrpint or irl, trust the footprint. it was just the best 3d model i could find.
