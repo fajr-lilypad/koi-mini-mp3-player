@@ -72,6 +72,15 @@ So, CAD is officially finished up! Now, I'm finalizing everything in my repo and
 
 <img width="1549" height="949" alt="image" src="https://github.com/user-attachments/assets/1dfb93d7-1eb7-4858-9740-ed620aa50fa9" />
 
+## June 4th, 2026, 1 PM
+
+Today, I polished up CAD and firmware. I finished up small details in the case (snap fit joints, embossed details) and started on software, where I downloaded soundpod code and customized it so that my display would flash a koi fish image! At first, I was confused on how I would put a png on my OLED, so I used a bitmap converter that converted my image into arduino binary code. I also got a lot of work done with my READme, added links to my BOM, did some rendering, and just made it look pretty overall. Next stop, zine!
+
+<img width="852" height="752" alt="image" src="https://github.com/user-attachments/assets/96d6a85a-3160-4150-bb0e-efe92334680d" />
+<img width="128" height="64" alt="image" src="https://github.com/user-attachments/assets/ef38a72b-2ed1-4ca4-8c7e-921cf1bb8533" />
+
+
+
 
 
 
