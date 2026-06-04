@@ -57,7 +57,7 @@ PCB Notes:
 
 ## Schematic ScreenShot
 
-<img width="1029" height="735" alt="Screenshot 2026-06-01 225005" src="https://github.com/user-attachments/assets/25549626-ebec-4dc3-b5bc-de32f5527da3" />
+<img width="800" height="500" alt="Screenshot 2026-06-01 225005" src="https://github.com/user-attachments/assets/25549626-ebec-4dc3-b5bc-de32f5527da3" />
 
 
 
