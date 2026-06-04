@@ -11,9 +11,9 @@ Some special things I did include making a more complex pcb than I have ever wor
 
 <img width="1000" height="600" alt="Screenshot 2026-06-03 174017" src="https://github.com/user-attachments/assets/c3ee901b-1757-4777-92d5-77be0b7a75b7" />
 
-<img width="1294" height="891" alt="Screenshot 2026-06-04 122117" src="https://github.com/user-attachments/assets/311c2538-95a6-43fd-a829-ec562be0ea37" /> <img width="1266" height="900" alt="Screenshot 2026-06-04 122146" src="https://github.com/user-attachments/assets/5ebe3ea6-5886-42f7-ba28-61c18c7b8987" />
 
-
+<img src="Screenshot 2026-06-04 122117" src="https://github.com/user-attachments/assets/311c2538-95a6-43fd-a829-ec562be0ea37" width="300">
+<img src="Screenshot 2026-06-04 122146" src="https://github.com/user-attachments/assets/5ebe3ea6-5886-42f7-ba28-61c18c7b8987" width="300">
 
 
 CAD Notes:
