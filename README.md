@@ -33,14 +33,21 @@ CAD Notes:
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/ef0c0d91-d98b-42b7-84a3-e3c9477c09b0" width="300"/>
+    <!-- Left side spans 2 rows -->
+    <td rowspan="2">
+      <img src="https://github.com/user-attachments/assets/08f53b1f-319d-4e50-8958-fba41f2a1926" width="300">
     </td>
+
+    <!-- Top-right image -->
     <td>
-      <img src="https://github.com/user-attachments/assets/f06a7f71-635b-4db4-a0f1-33f7f5b3a7c0" width="300"/>
+      <img src="https://github.com/user-attachments/assets/8fb7f56f-6eab-44c9-bc9d-51c856697ca6" width="300">
     </td>
+  </tr>
+
+  <tr>
+    <!-- Bottom-right image -->
     <td>
-      <img src="https://github.com/user-attachments/assets/e05d2b29-85c8-4f2c-948f-7d8f998eee66" width="300" />
+      <img src="https://github.com/user-attachments/assets/748b92b7-ce69-4af2-b983-18e902312a83" width="300">
     </td>
   </tr>
 </table>
