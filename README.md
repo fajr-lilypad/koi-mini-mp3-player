@@ -20,6 +20,7 @@ Some special things I did include making a more complex pcb than I have ever wor
       <img src="https://github.com/user-attachments/assets/8fb7f56f-6eab-44c9-bc9d-51c856697ca6" width="300">
     </td>
   </tr>
+  </tr>
 </table>
 
 CAD Notes:
