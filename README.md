@@ -33,19 +33,14 @@ CAD Notes:
 
 <table>
   <tr>
-    <!-- Left side spans 2 rows -->
     <td rowspan="2">
       <img src="https://github.com/user-attachments/assets/08f53b1f-319d-4e50-8958-fba41f2a1926" width="300">
     </td>
-
-    <!-- Top-right image -->
     <td>
       <img src="https://github.com/user-attachments/assets/8fb7f56f-6eab-44c9-bc9d-51c856697ca6" width="300">
     </td>
   </tr>
-
   <tr>
-    <!-- Bottom-right image -->
     <td>
       <img src="https://github.com/user-attachments/assets/748b92b7-ce69-4af2-b983-18e902312a83" width="300">
     </td>
