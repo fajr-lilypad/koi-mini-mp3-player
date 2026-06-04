@@ -62,7 +62,12 @@ PCB Notes:
 
 <img width="800" height="500" alt="Screenshot 2026-06-01 225005" src="https://github.com/user-attachments/assets/25549626-ebec-4dc3-b5bc-de32f5527da3" />
 
+# Zine !!
 
+## Notes and Acknowledgments
+- Thank you to **Hackclub** and the **Fallout team** for making this project possible! It's because of you that I was inspired and able to make this project!
+- Thank you to the user Digiicam for helpful inspo for wiring and components!
+- Thank you to Pcbcupid for simple customizable firmware!
 
 
 
