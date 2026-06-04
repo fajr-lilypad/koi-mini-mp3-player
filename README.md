@@ -53,6 +53,13 @@ PCB Notes:
 
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a39c84a3-0160-4217-ab65-45ce0235e0f5" />
 
+# Schematic ScreensShot
+<td align="center">
+  <img src="https://github.com/user-attachments/assets/e8cc78ab-bbd9-41a7-87a3-891c4495d697" />
+" width="300">
+</td>
+
+
 
 
 
