@@ -54,7 +54,7 @@ CAD Notes:
 
 PCB Notes:
 - The PCB took me a **while**. It took 6 versions to come up with the final draft. The biggest difficulty was deciding a layout that would be easy to work with and troubleshoot, along with research into which components I should use. I had to learn how to do a lot of new things in KiCad, including making my own symbols!
-- For structure, I created a blank PCB with the same shape attached to the bottom of the real pcb with brass standoffs. I found in my research that this is common when creating mp3 players, along with custom PCBs in general. After running into trouble with mounting, I scrapped that idea. Now, the there is just one pcb secured with 15mm standoffs.
+- For structure, I created a blank PCB with the same shape attached to the bottom of the real pcb with brass standoffs. I found in my research that this is common when creating mp3 players, along with custom PCBs in general. After running into trouble with mounting, I scrapped that idea. Now, the there is just one pcb secured with standoffs.
 
 ## Schematic ScreenShot
 
