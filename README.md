@@ -18,7 +18,7 @@ Some special things I did include making a more complex pcb than I have ever wor
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/08f53b1f-319d-4e50-8958-fba41f2a1926" width="300">
+    <img src="https://github.com/user-attachments/assets/8bf8efca-11a1-4a1c-8d67-5353936582d1" width="300">
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/8fb7f56f-6eab-44c9-bc9d-51c856697ca6" width="300">
